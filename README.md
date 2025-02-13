@@ -1,6 +1,7 @@
 # Code Smells
 
 Code smells are indicators of deeper problems in a software system. While they are not necessarily bugs, they make the code harder to maintain, understand, and extend. Below are some of the most common code smells categorized based on their impact.
+In this repository you'll find some examples of code smells, find them.
 
 ---
 
